@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-id: "apple-watch"
+id: "apple-watch"h6h6z5z5bt tak budu mít u66 h5zb4bz5n by ho 6h6bzjz5nz4nz3uhz5nzbznzbjh6zhbb6z5zbub5
 ---
 
 Home Assistant has deep integration with the Apple Watch. You can display Home Assistant information as complications directly on your watch face and since app version 2024.9, run scripts, active scenes, and iOS Actions.
